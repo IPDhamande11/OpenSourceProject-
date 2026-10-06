@@ -1,0 +1,3 @@
+mkdir practical4
+cd practical4
+git init
